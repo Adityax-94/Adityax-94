@@ -3,13 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;AI+%26+ML+Engineer;Data+Scientist+in+the+Making;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
-
-
 </div>
 
 ---
-
-
 
 ## 🛠 Tech Stack & Skills
 
@@ -85,44 +81,18 @@
 ---
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityax-94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DB954&icon_color=1DB954&count_private=true&hide=stars,prs,issues,contribs&show=reviews" height="180"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityax-94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DB954" height="180"/>
 
 </div>
+<div align="center">
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adityax-94&theme=tokyonight&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&currStreakLabel=1DB954)
 
-## 💼 Experience
-
-**🏢 Software Engineer Intern — ScaleFULL Technologies** *(Feb 2026 – Present)*
-- Collected, cleaned, and preprocessed structured & unstructured datasets for model training
-- Performed EDA to uncover patterns and actionable insights
-- Evaluated models using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
-
----
-
-## 🎓 Education
-
-🏛 **B.Tech in Artificial Intelligence & Machine Learning**
-Deogiri Institute of Engineering & Management Studies, DBATU | 2022–2026 | CGPA: 7.5
-
-📚 **Higher Secondary (12th)**
-Kulbhushan Jr. College | 2021–2022 | 80%
-
----
-
-## 🏆 Extracurricular
-
-- 🎯 **Training & Placement Committee Member** — Deogiri IEMS
-- 🌌 **QUASARS Annual Gathering** — Event Management
-- 🤖 **AI Students Association Member**
-- 🚌 Successfully managed a **college trip of 50 members** including faculty
-
----
+</div>
 
 ## 📬 Connect With Me
 
@@ -130,7 +100,6 @@ Kulbhushan Jr. College | 2021–2022 | 80%
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachavan1206@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityax-94)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 </div>
 
