@@ -57,7 +57,19 @@
 
 <table>
   <tr>
-        <td width="50%">
+    <td width="50%">
+      <h3>🥊 TwoMinds — AI Debate Arena</h3>
+      <p>Multi-agent debate system where two Llama 3.3 70B agents argue opposing sides of any topic — orchestrated by <strong>LangGraph</strong>, scored by a judge agent, and streamed live via <strong>FastAPI SSE</strong> to a React frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Adityax-94/TwoMinds">📂 Repo</a> &nbsp;|&nbsp;
+      <a href="https://two-minds-nine.vercel.app">▶ Live App</a>
+    </td>
+    <td width="50%">
       <h3>🕵️ Founder Research Agent</h3>
       <p>Autonomous AI agent that deep-researches founders & CEOs — browses the web, scrapes data, and synthesises professional reports using <strong>LangGraph + Groq (Llama 3.3 70B)</strong>.</p>
       <p>
@@ -67,6 +79,8 @@
       </p>
       <a href="https://github.com/Adityax-94">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🎵 Spotify Song Preference Predictor</h3>
       <p>ML-powered binary classifier predicting whether you'll like a song based on Spotify audio features. Trained 5 ensemble models — AdaBoost achieved <strong>96.61% accuracy</strong>.</p>
@@ -78,7 +92,14 @@
       <a href="https://github.com/Adityax-94/Song-preference">📂 Repo</a> &nbsp;|&nbsp;
       <a href="https://songs-recommender-by-aditya.streamlit.app/">▶ Live App</a>
     </td>
-
+    <td width="50%">
+      <h3>🔮 More projects coming soon...</h3>
+      <p>Always building. Check back for more AI agents, full-stack apps, and ML projects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Adityax-94?tab=repositories">📂 All Repos</a>
+    </td>
   </tr>
 </table>
 
