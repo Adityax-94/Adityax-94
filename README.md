@@ -79,9 +79,7 @@
         <img src="https://img.shields.io/badge/Gradio-00B4AB?style=flat-square&logo=gradio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Joblib-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      
-      <a href="https://github.com/Adityax-94/Gestify">📂 Repo</a>
-      <!-- Optionally add a demo GIF or image here -->
+     <a href="https://github.com/Adityax-94/Gestify">📂 Repo</a> 
     </td>
   </tr>
   <tr>
