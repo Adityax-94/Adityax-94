@@ -133,7 +133,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityax-94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DB954" height="180"/>
+
 
 </div>
 <div align="center">
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachavan1206@gmail.com)
+[![adityachavan1206@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachavan1206@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityax-94)
 
 </div>
