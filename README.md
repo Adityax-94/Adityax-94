@@ -69,6 +69,26 @@
       <a href="https://github.com/Adityax-94/TwoMinds">📂 Repo</a> &nbsp;|&nbsp;
       <a href="https://two-minds-nine.vercel.app">▶ Live App</a>
     </td>
+      <td width="50%">
+        <h3>🖐 Gestify — Hand Gesture Controller</h3>
+        <p>Real-time hand gesture recognition system that lets you control your computer — volume, media, scrolling, and mouse — using just your webcam and your hand! Powered by <strong>MediaPipe</strong> and a custom-trained <strong>MLP classifier</strong> for robust, personalized gesture detection.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gradio-00B4AB?style=flat-square&logo=gradio&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Joblib-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+        <ul>
+          <li>🖐 <b>6+ intuitive gestures</b> — play/pause, volume, scroll, mouse, and more</li>
+          <li>⚡ <b>Real-time</b> (30+ fps) — no GPU required</li>
+          <li>🧠 <b>MLP classifier</b> — adapts to your hand geometry</li>
+          <li>🔒 <b>Failsafe</b> — emergency stop with mouse to top-left</li>
+          <li>🔄 <b>Extensible</b> — add new gestures by recording & retraining</li>
+        </ul>
+        <a href="https://github.com/Adityax-94/Gestify">📂 Repo</a>
+        <!-- Optionally add a demo GIF or image here -->
+      </td>
     <td width="50%">
       <h3>🕵️ Founder Research Agent</h3>
       <p>Autonomous AI agent that deep-researches founders & CEOs — browses the web, scrapes data, and synthesises professional reports using <strong>LangGraph + Groq (Llama 3.3 70B)</strong>.</p>
