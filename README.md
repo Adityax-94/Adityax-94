@@ -123,9 +123,12 @@
 ## 🧩 LeetCode
 
 <div align="center">
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)](https://github.com/Adityax-94/Leetcode)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/adityachavan_94?theme=dark&font=Fira%20Code&ext=contest)
+<a href="https://github.com/Adityax-94/Leetcode">
+<img src="https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github">
+</a><br>
+
+<img src="https://leetcard.jacoblin.cool/adityachavan_94?theme=dark&font=Fira%20Code&ext=contest" />
 
 </div>
 
@@ -135,10 +138,11 @@
 |:---:|:---:|:---:|
 | Solved | Solved | Solved |
 
+
+
 > *Consistent problem solver — sharpening DSA skills one problem at a time.*
 
 </div>
-
 ---
 ## 📈 GitHub Stats
 
