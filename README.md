@@ -79,7 +79,8 @@
         <img src="https://img.shields.io/badge/Gradio-00B4AB?style=flat-square&logo=gradio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Joblib-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-     <a href="https://github.com/Adityax-94/Gestify">📂 Repo</a> 
+     <a href="https://github.com/Adityax-94/Gestify">📂 Repo</a> &nbsp;|&nbsp;
+<a href="https://huggingface.co/spaces/Adityax-94/gestify">🤗 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -117,6 +118,26 @@
     <td width="50%"></td>
   </tr>
 </table>
+
+---
+## 🧩 LeetCode
+
+<div align="center">
+[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)](https://github.com/Adityax-94/Leetcode)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/adityachavan_94?theme=dark&font=Fira%20Code&ext=contest)
+
+</div>
+
+<div align="center">
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|:---:|:---:|:---:|
+| Solved | Solved | Solved |
+
+> *Consistent problem solver — sharpening DSA skills one problem at a time.*
+
+</div>
 
 ---
 ## 📈 GitHub Stats
