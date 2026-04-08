@@ -92,7 +92,8 @@
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/Adityax-94">📂 Repo</a>
+      <a href="https://github.com/Adityax-94/Founder_reserach_agent">📂 Repo</a>
+      <a href="https://founder-reserach-agent-1.onrender.com/"> Live Demo</a>
     </td>
     <td width="50%">
       <h3>🎵 Spotify Song Preference Predictor</h3>
