@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
       <a href="https://github.com/Adityax-94/Song-preference">📂 Repo</a> &nbsp;|&nbsp;
-      <a href="https://songs-recommender-by-aditya.streamlit.app/">▶ Live App</a>
+      <a href="https://founder-reserach-agent.vercel.app/">▶ Live App</a>
     </td>
   </tr>
   <tr>
